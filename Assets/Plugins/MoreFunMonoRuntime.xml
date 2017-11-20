@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoreFunMonoRuntime</name>
+    </assembly>
+    <members>
+        <!--FIXME: Invalid documentation markup was found for member T:MoreFun.MoreDebug-->
+        <member name="M:MoreFun.MoreDebug.GetMoreLog(System.Object,System.Int32,System.Object[])">
+            <summary>
+            Get formatted message with additional info: type info, method info and date time info.
+            </summary>
+            <returns>The more log.</returns>
+            <param name="caller">Caller.</param>
+            <param name="stackFrame">Stack frame.</param>
+            <param name="messages">Messages.</param></member>
+    </members>
+</doc>

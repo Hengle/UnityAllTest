@@ -1,0 +1,10 @@
+
+*.csproj
+*.unityproj
+Assets/.DS_Store
+*.sln
+*.userprefs
+.DS_Store
+*.DS_Store
+Library
+obj
